@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CleanCode.iml" filepath="$PROJECT_DIR$/.idea/CleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/java-cleancode-refactoring-method-extraction.iml" filepath="$PROJECT_DIR$/java-cleancode-refactoring-method-extraction/java-cleancode-refactoring-method-extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-cleancode-refactoring-renaming/java-cleancode-refactoring-renaming.iml" filepath="$PROJECT_DIR$/java-cleancode-refactoring-renaming/java-cleancode-refactoring-renaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/java-cleancode-refactoring-variable-extraction.iml" filepath="$PROJECT_DIR$/java-cleancode-refactoring-variable-extraction/java-cleancode-refactoring-variable-extraction.iml" />
+    </modules>
+  </component>
+</project>
